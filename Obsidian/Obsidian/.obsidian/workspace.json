@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "eaff7cda23f39aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a729a32b2762188e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67bf5547138bbcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "材料性能/热/材料的热稳定性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "材料的热稳定性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4e68e78fe632473",
+    "type": "split",
+    "children": [
+      {
+        "id": "45698cdd695f05af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e5e4f0286b9929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fa9e6ed2553946a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bf37e55ea6c5e9e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63439d32bdeccde6",
+    "type": "split",
+    "children": [
+      {
+        "id": "abef7e2ee63a913f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98ea65a9e8b267b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "热容.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "热容 的反向链接列表"
+            }
+          },
+          {
+            "id": "454e3ae1e26eded4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CMakeList 选项.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CMakeList 选项 的出链列表"
+            }
+          },
+          {
+            "id": "c2f4f33155080616",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "053aa14ce7896cce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "材料性能/热/材料的热稳定性.md"
+              },
+              "icon": "lucide-list",
+              "title": "材料的热稳定性 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "67bf5547138bbcc8",
+  "lastOpenFiles": [
+    "材料性能/材料性能（材料物理性能）.md",
+    "编程/CMakeList 选项.md",
+    "编程",
+    "Program/CMakeList 选项.md",
+    "Program",
+    "材料性能/热/热容.md",
+    "材料性能/热/热膨胀.md",
+    "材料性能/热/材料的热传导.md",
+    "材料性能/热/材料的热稳定性.md",
+    "材料性能（材料物理性能）.md",
+    "T-DT/CMakeList 选项.md",
+    "README.md",
+    "材料性能/热",
+    "材料性能",
+    "材料的内能.md",
+    "未命名.canvas",
+    "T-DT",
+    "欢迎.md"
+  ]
+}
