@@ -13,15 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料性能/电/材料的电学性能.md",
+                "file": "材料物理性能/电/金属的导电性能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "材料的电学性能"
+              "title": "金属的导电性能"
+            }
+          },
+          {
+            "id": "f52d80b565187ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绝缘体的电学特性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "绝缘体的电学特性"
+            }
+          },
+          {
+            "id": "e2142c4b3900867b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "材料物理性能/电/半导体的导电性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "半导体的导电性"
+            }
+          },
+          {
+            "id": "7f6c971d9c04cb8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "c03106ecf660c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "材料物理性能/电/热电性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "热电性"
+            }
+          },
+          {
+            "id": "565a19095d73413b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "材料物理性能/材料性能（材料物理性能）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "材料性能（材料物理性能）"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "材料性能/电/材料的电学性能.md"
+                "file": "绝缘体的电学特性.md"
               },
               "icon": "lucide-list",
-              "title": "材料的电学性能 的大纲"
+              "title": "绝缘体的电学特性 的大纲"
             }
           }
         ],
@@ -150,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +230,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67bf5547138bbcc8",
+  "active": "565a19095d73413b",
   "lastOpenFiles": [
+    "材料物理性能/电/压电性、热释电性和铁电性.md",
+    "材料物理性能/电/热电性.md",
+    "材料物理性能/电/半导体的导电性.md",
+    "材料物理性能/电/绝缘体的电学特性.md",
+    "材料物理性能/电/金属的导电性能.md",
     "材料性能/电/金属的导电性能.md",
     "材料性能/热/材料的热稳定性.md",
     "材料性能/电/材料的电学性能.md",
