@@ -1,90 +1,94 @@
 {
   "main": {
-    "id": "eaff7cda23f39aac",
+    "id": "99f89c4c8f9e01a1",
     "type": "split",
     "children": [
       {
-        "id": "a729a32b2762188e",
+        "id": "2cd9f89abf484705",
         "type": "tabs",
         "children": [
           {
-            "id": "67bf5547138bbcc8",
+            "id": "cb07832aad30a019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料物理性能/电/金属的导电性能.md",
+                "file": "材料物理性能/磁/物质的铁磁性及其物理本质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "金属的导电性能"
+              "title": "物质的铁磁性及其物理本质"
             }
           },
           {
-            "id": "f52d80b565187ec4",
+            "id": "18e6fffaaff9df7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绝缘体的电学特性.md",
+                "file": "材料物理性能/磁/磁畴的形成与磁畴结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绝缘体的电学特性"
+              "title": "磁畴的形成与磁畴结构"
             }
           },
           {
-            "id": "e2142c4b3900867b",
+            "id": "f3bccf6f40fb3173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料物理性能/电/半导体的导电性.md",
+                "file": "材料物理性能/磁/技术磁化和反磁化过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "半导体的导电性"
+              "title": "技术磁化和反磁化过程"
             }
           },
           {
-            "id": "7f6c971d9c04cb8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "c03106ecf660c1dc",
+            "id": "fd7cce691c5c3259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料物理性能/电/热电性.md",
+                "file": "材料物理性能/磁/影响金属及合金铁磁性的因素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热电性"
+              "title": "影响金属及合金铁磁性的因素"
             }
           },
           {
-            "id": "565a19095d73413b",
+            "id": "1bd50235e3ecfbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料物理性能/材料性能（材料物理性能）.md",
+                "file": "材料物理性能/磁/磁性材料的动态特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "材料性能（材料物理性能）"
+              "title": "磁性材料的动态特性"
+            }
+          },
+          {
+            "id": "6a81baed8754d23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "材料物理性能/磁/3 物质的铁磁性及其物理本质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 物质的铁磁性及其物理本质"
             }
           }
         ],
@@ -94,15 +98,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4e68e78fe632473",
+    "id": "4d14d6ecbe1067e4",
     "type": "split",
     "children": [
       {
-        "id": "45698cdd695f05af",
+        "id": "3a3a3eaeee8588b2",
         "type": "tabs",
         "children": [
           {
-            "id": "17e5e4f0286b9929",
+            "id": "71586231bcb24558",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,12 +118,12 @@
             }
           },
           {
-            "id": "fa9e6ed2553946a1",
+            "id": "3f4aba0a897dc2b0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "bf37e55ea6c5e9e4",
+            "id": "3f165eb27968f33d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,20 +151,20 @@
     "width": 300
   },
   "right": {
-    "id": "63439d32bdeccde6",
+    "id": "9b167830d8ae7116",
     "type": "split",
     "children": [
       {
-        "id": "abef7e2ee63a913f",
+        "id": "5fe406c407688aba",
         "type": "tabs",
         "children": [
           {
-            "id": "d98ea65a9e8b267b",
+            "id": "aa7c5292d7989b28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "热容.md",
+                "file": "Cyclic Redundancy Cheak , CRC 循环冗余校验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,25 +174,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "热容 的反向链接列表"
+              "title": "Cyclic Redundancy Cheak , CRC 循环冗余校验 的反向链接列表"
             }
           },
           {
-            "id": "454e3ae1e26eded4",
+            "id": "948af6f99723c509",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMakeList 选项.md",
+                "file": "Cyclic Redundancy Cheak , CRC 循环冗余校验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CMakeList 选项 的出链列表"
+              "title": "Cyclic Redundancy Cheak , CRC 循环冗余校验 的出链列表"
             }
           },
           {
-            "id": "c2f4f33155080616",
+            "id": "0a62de8997a8150f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -201,19 +205,18 @@
             }
           },
           {
-            "id": "053aa14ce7896cce",
+            "id": "047fffe62f8774bf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "绝缘体的电学特性.md"
+                "file": "Cyclic Redundancy Cheak , CRC 循环冗余校验.md"
               },
               "icon": "lucide-list",
-              "title": "绝缘体的电学特性 的大纲"
+              "title": "Cyclic Redundancy Cheak , CRC 循环冗余校验 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,35 +233,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "565a19095d73413b",
+  "active": "6a81baed8754d23d",
   "lastOpenFiles": [
-    "材料物理性能/电/压电性、热释电性和铁电性.md",
-    "材料物理性能/电/热电性.md",
-    "材料物理性能/电/半导体的导电性.md",
-    "材料物理性能/电/绝缘体的电学特性.md",
-    "材料物理性能/电/金属的导电性能.md",
-    "材料性能/电/金属的导电性能.md",
-    "材料性能/热/材料的热稳定性.md",
-    "材料性能/电/材料的电学性能.md",
-    "材料性能/电/金属的导电性能",
-    "材料性能/磁",
-    "材料性能/电",
-    "材料性能/材料性能（材料物理性能）.md",
-    "编程/CMakeList 选项.md",
-    "编程",
-    "Program/CMakeList 选项.md",
-    "Program",
-    "材料性能/热/热容.md",
-    "材料性能/热/热膨胀.md",
-    "材料性能/热/材料的热传导.md",
-    "材料性能（材料物理性能）.md",
-    "T-DT/CMakeList 选项.md",
-    "README.md",
-    "材料性能/热",
-    "材料性能",
-    "材料的内能.md",
-    "未命名.canvas",
-    "T-DT",
-    "欢迎.md"
+    "材料物理性能/磁/2 磁性产生的原因.md",
+    "材料物理性能/磁/1 材料的磁化性能及其基本参数.md",
+    "材料物理性能/磁/磁畴的形成与磁畴结构.md",
+    "Pasted image 20241218002344.png",
+    "Pasted image 20241218002322.png",
+    "材料物理性能/磁/技术磁化和反磁化过程.md",
+    "材料物理性能/磁/3 物质的铁磁性及其物理本质.md",
+    "材料物理性能/磁/磁性材料的动态特性.md",
+    "未命名.md",
+    "Pasted image 20241217233714.png",
+    "重点.md",
+    "Pasted image 20241217151125.png",
+    "材料物理性能/磁/影响金属及合金铁磁性的因素.md",
+    "材料物理性能/热/热膨胀.md",
+    "材料物理性能/热/热容.md",
+    "材料物理性能/磁/attachments/Pasted image 20241216090739.png",
+    "DDP/Cyclic Redundancy Cheak , CRC 循环冗余校验.md",
+    "DDP/14CodageFracFixe.pdf",
+    "DDP/课件/29Correction-TD-Arithmetique.pdf",
+    "DDP/课件/28Sujet-TD-Arithmetique.pdf",
+    "DDP/课件/27MultiplicationBinaireFlottant.pdf",
+    "DDP/课件/26MultiplicationBinaire.pdf",
+    "DDP/课件/25additionBinaire.pdf",
+    "DDP/课件/24Correction-CC4-2024.pdf",
+    "DDP/课件/23Correction-TDCodesCorrecteurs.pdf",
+    "DDP/课件/22Sujet-TDCodesCorrecteurs.pdf",
+    "DDP/课件/21Hamming.pdf"
   ]
 }
