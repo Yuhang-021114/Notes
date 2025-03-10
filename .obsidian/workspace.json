@@ -4,133 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd9f89abf484705",
+        "id": "628dbfe65f7ca631",
         "type": "tabs",
         "children": [
           {
-            "id": "cb07832aad30a019",
+            "id": "6e007f599c48a5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料物理性能/磁/物质的铁磁性及其物理本质.md",
+                "file": "信号处理/课件2 第一章 信号和系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "物质的铁磁性及其物理本质"
-            }
-          },
-          {
-            "id": "18e6fffaaff9df7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料物理性能/磁/磁畴的形成与磁畴结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "磁畴的形成与磁畴结构"
-            }
-          },
-          {
-            "id": "f3bccf6f40fb3173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料物理性能/磁/技术磁化和反磁化过程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "技术磁化和反磁化过程"
-            }
-          },
-          {
-            "id": "fd7cce691c5c3259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料物理性能/磁/影响金属及合金铁磁性的因素.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "影响金属及合金铁磁性的因素"
-            }
-          },
-          {
-            "id": "1bd50235e3ecfbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料物理性能/磁/磁性材料的动态特性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "磁性材料的动态特性"
-            }
-          },
-          {
-            "id": "6a81baed8754d23d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "材料物理性能/磁/attachments/Pasted image 20250111174424.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250111174424"
-            }
-          },
-          {
-            "id": "62847cfafbbbd8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDP/Cyclic Redundancy Cheak , CRC 循环冗余校验.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cyclic Redundancy Cheak , CRC 循环冗余校验"
-            }
-          },
-          {
-            "id": "7f9798297bcc6122",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "材料物理性能/磁/attachments/Pasted image 20241217151125.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241217151125"
-            }
-          },
-          {
-            "id": "550bb4c8efa5c7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS/URDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "URDF"
+              "title": "课件2 第一章 信号和系统"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b167830d8ae7116",
@@ -272,53 +164,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "550bb4c8efa5c7b8",
+  "active": "6e007f599c48a5b8",
   "lastOpenFiles": [
-    "ROS/attachments/Pasted image 20250309163855.png",
-    "ROS/attachments",
-    "鸢尾花/4_矩阵力量/未命名.md",
-    "ROS/URDF.md",
-    "ROS",
-    "鸢尾花/4_矩阵力量",
-    "鸢尾花",
-    "电机学/electric machinary/New Microsoft Word Document.pdf",
-    "电机学/electric machinary/5 Drives Of Induction Machine.ppt",
-    "电机学/electric machinary/2 Transformer.ppt",
-    "电机学/electric machinary/08.ppt",
-    "电机学/electric machinary/07_w.ppt",
-    "电机学/electric machinary/07.ppt",
-    "流体力学/Chapitre 2 Cinématiqe des fluide.md",
-    "模拟电路/课件1.md",
+    "信号处理/attachments/Pasted image 20250310154028.png",
+    "信号处理/attachments/Pasted image 20250310153806.png",
+    "信号处理/attachments/Pasted image 20250310153626.png",
+    "信号处理/attachments/Pasted image 20250310153552.png",
+    "信号处理/attachments/Pasted image 20250310153442.png",
+    "信号处理/attachments/Pasted image 20250310152121.png",
+    "信号处理/attachments/Pasted image 20250310151759.png",
+    "信号处理/attachments/Pasted image 20250310151755.png",
+    "信号处理/attachments/Pasted image 20250310151746.png",
+    "信号处理/untitled.jpg",
+    "信号处理/attachments/Pasted image 20250310144235.png",
+    "信号处理/SingalOperation.m",
+    "信号处理/SingalOperation.ipynb",
+    "电机学/3.Induction Machine.xmind",
+    "电机学/ACgenerateField.py",
+    "电机学/3.Induction Machine.ipynb",
+    "材料物理性能/磁/磁畴的形成与磁畴结构.md",
+    "材料物理性能/磁/技术磁化和反磁化过程.md",
+    "材料物理性能/磁/影响金属及合金铁磁性的因素.md",
+    "材料物理性能/磁/磁性材料的动态特性.md",
+    "材料物理性能/磁/3 物质的铁磁性及其物理本质.md",
+    "信号处理/信号与系统.md",
     "模拟电路/第四章 半导体二极管和三极管.md",
-    "模拟电路/attachments/Pasted image 20250307114008.jpg",
-    "模拟电路/attachments/Pasted image 20250307113953.jpg",
-    "模拟电路/attachments/Pasted image 20250307113949.jpg",
-    "模拟电路/attachments/Pasted image 20250307113943.jpg",
-    "模拟电路/attachments/Pasted image 20250307113935.jpg",
-    "模拟电路/attachments/Pasted image 20250307113931.jpg",
-    "模拟电路/attachments/Pasted image 20250307113928.jpg",
-    "模拟电路/attachments/Pasted image 20250307113921.jpg",
-    "模拟电路/attachments/Pasted image 20250307113906.jpg",
-    "模拟电路/attachments/Pasted image 20250307112929.jpg",
+    "流体力学/Chapitre 2 Cinématiqe des fluide.md",
     "信号处理/课件2 第一章 信号和系统.md",
     "信号处理/课件1 绪论.md",
-    "信号处理/信号与系统.md",
-    "重点.md",
-    "材料物理性能/磁/技术磁化和反磁化过程.md",
-    "编程/CMakeList 选项.md",
-    "材料物理性能/材料性能（材料物理性能）.md",
-    "材料物理性能/磁/磁性材料的动态特性.md",
+    "ROS/attachments",
+    "ROS/URDF.md",
+    "ROS",
+    "模拟电路/一些基本概念.xmind",
+    "模拟电路/课件1.md",
+    "模拟电路/attachments",
+    "信号处理/课件1.md",
+    "模拟电路",
     "材料物理性能/磁/attachments/重点.md",
-    "材料物理性能/磁/磁畴的形成与磁畴结构.md",
-    "材料物理性能/磁/影响金属及合金铁磁性的因素.md",
-    "材料物理性能/磁/3 物质的铁磁性及其物理本质.md",
-    "DDP/Cyclic Redundancy Cheak , CRC 循环冗余校验.md",
-    "材料物理性能/电/材料的电学性能.md",
+    "材料物理性能/磁/重点.md",
+    "材料物理性能/重点.md",
     "材料物理性能/电/半导体的导电性.md",
+    "材料物理性能/电/光电性、磁电性.md",
+    "材料物理性能/磁/2 磁性产生的原因.md",
     "材料物理性能/热/材料的热传导.md",
+    "材料物理性能/材料性能（材料物理性能）.md",
     "材料物理性能/热/热容.md",
     "材料物理性能/热/热膨胀.md",
     "材料物理性能/热/材料的热稳定性.md",
-    "材料物理性能/电/热电性.md"
+    "材料物理性能/磁/1 材料的磁化性能及其基本参数.md"
   ]
 }
