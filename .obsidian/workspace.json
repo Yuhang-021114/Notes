@@ -11,10 +11,14 @@
             "id": "f50476a78d8435e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "信号处理/课件2 第一章 信号和系统.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "课件2 第一章 信号和系统"
             }
           }
         ]
@@ -162,17 +166,18 @@
   },
   "active": "f50476a78d8435e7",
   "lastOpenFiles": [
+    "信号处理/attachments/Pasted image 20250313153924.jpg",
+    "信号处理/attachments/Pasted image 20250313153814.jpg",
+    "信号处理/attachments/Pasted image 20250313153808.jpg",
+    "信号处理/attachments/Pasted image 20250313153804.jpg",
+    "信号处理/attachments/Pasted image 20250313152640.jpg",
+    "信号处理/attachments/Pasted image 20250313152432.jpg",
+    "信号处理/attachments/Pasted image 20250313152318.jpg",
+    "信号处理/attachments/Pasted image 20250313151642.jpg",
+    "信号处理/attachments/Pasted image 20250313150911.jpg",
+    "信号处理/attachments/Pasted image 20250313150433.jpg",
+    "信号处理/attachments/Pasted image 20250313150219.jpg",
     "模拟电路/第四章 半导体二极管和三极管.md",
-    "模拟电路/attachments/Pasted image 20250311093913.jpg",
-    "模拟电路/attachments/Pasted image 20250311093631.jpg",
-    "模拟电路/attachments/Pasted image 20250311093400.jpg",
-    "模拟电路/attachments/Pasted image 20250311093303.jpg",
-    "模拟电路/attachments/Pasted image 20250311093146.jpg",
-    "模拟电路/attachments/Pasted image 20250311093025.jpg",
-    "模拟电路/attachments/Pasted image 20250311092917.jpg",
-    "模拟电路/attachments/Pasted image 20250311092821.jpg",
-    "模拟电路/attachments/Pasted image 20250311092734.jpg",
-    "模拟电路/attachments/Pasted image 20250311092729.jpg",
     "模拟电路/Analysis.m",
     "信号处理/课件2 第一章 信号和系统.md",
     "信号处理/SingalOperation.m",

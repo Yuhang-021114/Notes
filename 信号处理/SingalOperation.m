@@ -86,6 +86,31 @@
 % xlabel('n'); ylabel('x[-2n+3]');
 % grid on;
 
-clear;
-n = 0:1:1000;
-n_d = decimate(n, 50);
+% clear;
+% n = 0:1:1000;
+% n_d = decimate(n, 50);
+
+% Convolution
+% x = 0.5:0.5:1.5;
+% y = ones(1, 3);
+% z = conv(x, y);
+% n = 1:1:5;
+% subplot(3,1,1); stem(1:length(x), x, 'k');
+% subplot(3,1,2); stem(1:length(y), y, 'k');
+% subplot(3,1,3); stem(1:length(z), z, 'k');
+
+% x = ones(1, 3);
+% h = ones(1, 3);
+% y= conv(x,h)
+
+% x = 1:1:9;
+% x1 = [zeros(1, 3), x, zeros(1, 3)];
+% x2 = [zeros(1, 2), x, zeros(1, 4)];
+% rxx=xcorr(x1)
+% rxx1=xcorr(x1,x2)
+% rxx2=xcorr(x2)
+% subplot(5,1,1); stem(1:length(x1), x1, 'k');
+% subplot(5,1,2); stem(1:length(x2), x2, 'k');
+% subplot(5,1,3); stem(1:length(rxx), rxx, 'k');
+% subplot(5,1,4); stem(1:length(rxx1), rxx1, 'k');
+% subplot(5,1,5); stem(1:length(rxx2), rxx2, 'k');
