@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abecd4428395151c",
+        "id": "a555e680e77725ac",
         "type": "tabs",
         "children": [
           {
-            "id": "14b4e3c6c650c994",
+            "id": "f50476a78d8435e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模拟电路/第四章 半导体二极管和三极管.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "第四章 半导体二极管和三极管"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,8 +160,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14b4e3c6c650c994",
+  "active": "f50476a78d8435e7",
   "lastOpenFiles": [
+    "模拟电路/第四章 半导体二极管和三极管.md",
     "模拟电路/attachments/Pasted image 20250311093913.jpg",
     "模拟电路/attachments/Pasted image 20250311093631.jpg",
     "模拟电路/attachments/Pasted image 20250311093400.jpg",
@@ -176,9 +173,7 @@
     "模拟电路/attachments/Pasted image 20250311092821.jpg",
     "模拟电路/attachments/Pasted image 20250311092734.jpg",
     "模拟电路/attachments/Pasted image 20250311092729.jpg",
-    "模拟电路/attachments/Pasted image 20250311092633.jpg",
     "模拟电路/Analysis.m",
-    "模拟电路/第四章 半导体二极管和三极管.md",
     "信号处理/课件2 第一章 信号和系统.md",
     "信号处理/SingalOperation.m",
     "信号处理/SingalOperation.ipynb",
